@@ -1,0 +1,46 @@
+#card {
+  width: 24%;
+  height: 300px;
+  border: 1px solid #181818;
+  background-color: #181818;
+  margin: 3px;
+}
+
+#card:hover{
+  cursor: pointer;
+}
+
+#nfo {
+  display: flex;
+}
+
+.imgroll{
+    margin: 10px;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+}
+
+#leff {
+  width: 22%;
+  /* border: 1px solid red; */
+  height: 80px;
+  align-items: center;
+}
+
+#riff {
+  width: 72%;
+  /* border: 1px solid red; */
+  height: 80px;
+}
+.title {
+   color: #FFF8DA; 
+    margin-bottom: 2px;
+    font-size: 12px;
+
+}
+
+.chann {
+    font-size: 10px;
+    color: #AAAAAA;
+}

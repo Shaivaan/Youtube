@@ -1,0 +1,25 @@
+#setC{
+    border: 1px solid rgb(22, 2, 2);
+    display: flex;
+    flex-wrap: wrap;
+    
+    padding: 10px;
+    background-color: #181818;
+    height: 100vh;
+    /* overflow-x: auto; */
+    overflow-y: scroll;
+   
+}
+#setC::-webkit-scrollbar{
+   color: none;
+   width: 10px;
+}
+
+#setC::-webkit-scrollbar-thumb {
+    background-color: grey;    /* color of the scroll thumb */
+    border-radius: 20px;       /* roundness of the scroll thumb */
+    border: 1px solid grey;
+      /* creates padding around scroll thumb */
+      width: 5px;
+  }
+

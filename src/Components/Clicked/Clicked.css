@@ -1,0 +1,74 @@
+#inC{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+    background-color: #181818;
+}
+
+#clll{
+    max-height: 100vh;
+    overflow-y: scroll;
+}
+/* #clll::-webkit-scrollbar{
+    display: none;
+} */
+#clll::-webkit-scrollbar{
+    color: none;
+    width: 10px;
+ }
+ 
+ #clll::-webkit-scrollbar-thumb {
+     background-color: grey;    /* color of the scroll thumb */
+     border-radius: 20px;       /* roundness of the scroll thumb */
+     border: 1px solid grey;
+       /* creates padding around scroll thumb */
+       width: 5px;
+   }
+
+
+#inL{
+    /* border: 1px solid red; */
+    width: 60%;
+    /* height: 20px; */
+}
+
+#inR{
+/* border: 1px solid red; */
+    width: 34%;
+    /* height: 20px; */
+}
+
+iframe{
+    width: 99%;
+    height: 450px;
+}
+#id{
+    display: flex;
+    
+}
+.thumbb img{
+   
+    width:30px ;
+    height: 30px;
+    border-radius: 50%;
+    margin-right: 5px;
+    
+}
+span{
+    color: white;
+}
+#cenn{
+    display: flex;
+    align-items: center;
+}
+#des{
+    color: white;
+}
+#showm{
+   color: grey;
+    font-size: 12px;
+}
+#showm:hover{
+    cursor: pointer;
+}
+

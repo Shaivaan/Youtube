@@ -8,7 +8,10 @@ YouTube is an American online video sharing and social media platform owned by G
 <h2>Tech Used</h2>
 <ul>
   <li>React</li>
+  <li>TypeScript</li>
   <li>Youtube api</li>
+   <li>Material UI</li>
+   <li>React Icons</li>
 </ul>
 
 <h2>Tools</h2>
